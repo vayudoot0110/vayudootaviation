@@ -994,9 +994,9 @@ input[type="date" i] {
 ///////////////////////////////////////////////////////////
 */
 .btn2 {
-  background-color: white;
+  background-color: ghostwhite;
   border-radius: 45px;
-  opacity: 0.9;
+  opacity: 0.6;
 }
 
 .btn2:hover {
